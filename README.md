@@ -165,10 +165,6 @@ int length = sprintf(NULL, "Hello, world"); // length is set to 12
 | PRINTF_DISABLE_SUPPORT_PTRDIFF_T   | undefined | Define this to disable ptrdiff_t (%t) support |
 
 
-## Caveats
-None anymore (finally).
-
-
 ## Test Suite
 For testing just compile, build and run the test suite located in `test/test_suite.cpp`. This uses the [catch](https://github.com/catchorg/Catch2) framework for unit-tests, which is auto-adding main().
 Running with the `--wait-for-keypress exit` option waits for the enter key after test end.
