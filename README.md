@@ -16,7 +16,7 @@ If memory footprint is really a critical issue, floating point, exponential and 
 When using printf (instead of sprintf/snprintf) you have to provide your own `_putchar()` low level function as console/serial output.
 
 
-## 2020 announcement
+## 2023 announcement
 This project is not dead! I just had no time in 2019 for sufficient support, sorry.
 Within the next weeks, I will have a look to all PRs and open issues.  
 Thank you all for supporting this project.
